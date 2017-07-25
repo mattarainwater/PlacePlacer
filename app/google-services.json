@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "768014170025",
+    "project_id": "placeplacer"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768014170025:android:1b11b76500591751",
+        "android_client_info": {
+          "package_name": "com.example.matta.placeplacer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768014170025-0of4jggl5vmaq6g72ok97cqik463g3vv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.matta.placeplacer",
+            "certificate_hash": "26dfc5a87408955cd604f6759c614db1240c6591"
+          }
+        },
+        {
+          "client_id": "768014170025-j2rrlof3sfi8r3jinb1v49lu3mf59q9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb6vv9Rp4g30jpkllYsyP0EzePyvlaEHY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
